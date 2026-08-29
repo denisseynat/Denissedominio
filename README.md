@@ -1,0 +1,2 @@
+# Denissedominio
+Script termux
